@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_15.Game">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAADABAAggAIAACAQAAAAAAAAAEAgAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_15.Pole">
+    <Position X="3.25" Y="0.75" Width="2.25" />
+    <Members>
+      <Field Name="button0" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button10" Hidden="true" />
+      <Field Name="button11" Hidden="true" />
+      <Field Name="button12" Hidden="true" />
+      <Field Name="button13" Hidden="true" />
+      <Field Name="button14" Hidden="true" />
+      <Field Name="button15" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Field Name="button7" Hidden="true" />
+      <Field Name="button8" Hidden="true" />
+      <Field Name="button9" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_FormClosed" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="menu_start" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="tableLayoutPanel" Hidden="true" />
+      <Method Name="timer_Tick" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Method Name="выйтиToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="менюToolStripMenuItem" Hidden="true" />
+      <Method Name="менюToolStripMenuItem_Click" Hidden="true" />
+    </Members>
+    <AssociationLine Name="form4" Type="_15.Result" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.562" />
+        <Point X="6.75" Y="1.538" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.188" Y="-0.257" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ASQAAABAACBAABQJQACAAIAKIMw/AABoEEQARQAxgAA=</HashCode>
+      <FileName>Pole.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+      <Field Name="form2" />
+      <Field Name="form4" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_15.Menu">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form2_FormClosed" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAABAAAACCAAACIEAoAAAAAFAIAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="form1" />
+      <Field Name="form3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_15.Information">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form3_FormClosed" Hidden="true" />
+      <Method Name="Information" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAQACAAAACAAAIAAAAAEAQAAAAAAA=</HashCode>
+      <FileName>Information.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="form2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_15.Result">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form4_FormClosed" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAQACAAAACAAAIAAAAAEAIAAAAAAA=</HashCode>
+      <FileName>Result.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="form2" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

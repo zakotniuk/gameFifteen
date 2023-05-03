@@ -1,0 +1,12 @@
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\bin\Debug\15.exe
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\bin\Debug\15.pdb
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Properties.Resources.resources
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.exe
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.pdb
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Result.resources
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Menu.resources
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Information.resources
+C:\Users\Home\OneDrive\Документы\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Pole.resources
