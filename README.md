@@ -1,5 +1,5 @@
 # gameFifteen
-a mini game made as an exam work
+This mini game made for OOP exam
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
